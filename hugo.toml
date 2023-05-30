@@ -5,6 +5,8 @@ languageCode = "en-GB"
 enableInlineShortcodes = true
 pygmentsCodeFences = true
 pygmentsUseClasses = true
+enableGitInfo = true
+enableEmoji = true
 
 [params]
   description = "My website"
