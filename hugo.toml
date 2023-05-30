@@ -9,6 +9,7 @@ pygmentsUseClasses = true
 [params]
   description = "My website"
   copyright = "Copyright © 2023 Ed Mason"
+  notFound = "404 Page Not Found. Apologies!"
   dark = "auto"
   highlight = true
 
