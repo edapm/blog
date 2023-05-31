@@ -3,12 +3,6 @@ title: Hello
 date: 2023-05-30T16:51:27+01:00
 draft: false
 ---
-Hello, this is site number infinity. I needed something simpler than Sanity and Next.js, so I'm trying Hugo and Netlify.
+Hello, welcome to my website. No idea what I'll do with it or how long this iteration will live for, but please stick around to see something happen (hopefully).
 
 Ed.
-
-\-﻿--
-
-E﻿dit:
-
-P﻿.S. This seems good.
