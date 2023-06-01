@@ -1,4 +1,4 @@
-baseURL = "https://edwardmason.netlify.app"
+baseURL = "https://edwardmason.vercel.app"
 title = "Ed Mason"
 theme = "etch"
 languageCode = "en-GB"
