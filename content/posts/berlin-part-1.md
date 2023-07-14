@@ -3,7 +3,9 @@ title: "Berlin: Part 1"
 date: 2023-07-12T14:30:00+01:00
 draft: false
 ---
+
 *This post is the first in a series on Berlin, the capital of Germany, which I recently visited*
+
 --
 
 I recently returned from a trip to Berlin. It was my first trip to the capital of Germany, and it was an incredible experience.

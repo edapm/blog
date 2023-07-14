@@ -15,6 +15,12 @@ enableEmoji = true
   dark = "auto"
   highlight = true
 
+[params.staticman]
+    endpoint = "https://staticman-qihs.onrender.com/v2/entry"
+    username = "edapm"
+    repository = "website"
+    branch = "main" 
+
 [menu]
   [[menu.main]]
     identifier = "posts"
