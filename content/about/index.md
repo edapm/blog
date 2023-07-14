@@ -1,5 +1,6 @@
 ---
 title: "About"
+type: "page"
 draft: false
 ---
 
