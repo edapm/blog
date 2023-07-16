@@ -1,7 +1,7 @@
 ---
 title: "About"
-type: "page"
 draft: false
+comments: false
 ---
 
 I'm Ed.
