@@ -1,5 +1,5 @@
 ---
-title: "Berlin: Part 1"
+title: "Berlin: Part 2"
 date: 2023-07-19T14:30:00+01:00
 draft: true
 comments: True
