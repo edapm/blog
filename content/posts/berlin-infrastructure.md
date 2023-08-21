@@ -1,6 +1,7 @@
 ---
 title: "Berlin: Infrastructure"
 date: 2023-08-12T14:30:00+01:00
+tags: berlin, series, travel
 draft: false
 comments: True
 ---

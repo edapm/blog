@@ -1,6 +1,7 @@
 ---
 title: "Berlin: Part 1"
 date: 2023-07-12T14:30:00+01:00
+tags: berlin, series, travel
 draft: false
 comments: True
 ---
