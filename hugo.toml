@@ -1,4 +1,4 @@
-baseURL = "https://edwardmason.vercel.app"
+baseURL = "https://edmason.co.uk"
 title = "Ed Mason"
 theme = "etch"
 languageCode = "en-GB"
@@ -10,7 +10,7 @@ enableEmoji = true
 
 [params]
   description = "My website"
-  copyright = "Copyright © 2023 Ed Mason"
+  copyright = "Copyright © 2024 Ed Mason"
   notFound = "404 Page Not Found. Apologies!"
   dark = "auto"
   highlight = true
