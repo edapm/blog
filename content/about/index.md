@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Random Links"
 draft: false
 comments: false
 ---
