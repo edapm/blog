@@ -38,7 +38,6 @@ enableEmoji = true
 
 [permalinks]
   posts = "/:year/:month/:day/:title/"
-  about = "/:title/"
 
 [markup.goldmark.renderer]
   # Allows HTML in Markdown
