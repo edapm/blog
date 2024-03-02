@@ -7,6 +7,7 @@ comments: false
 I'm Ed.
 
 ## Random Links
+---
 
 ### My Favourite Music 🎶 - Interstellar soundtrack
 
