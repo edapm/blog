@@ -8,4 +8,4 @@ I'm Ed.
 
 Check out some links to stuff I like ↩️
 
-[Random Links 🔗](/posts/random-links)
+[Random Links 🔗](https://edmason.co.uk/2024/03/02/random-links)

@@ -1,6 +1,6 @@
 ---
 title: "Berlin: Potsdam"
-date: 2024-03-02T16:15:00+01:00
+date: 2024-03-02T16:15:00
 tags: berlin, series, travel
 draft: false
 comments: True
