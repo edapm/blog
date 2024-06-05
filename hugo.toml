@@ -1,4 +1,4 @@
-baseURL = "https://edmason.co.uk"
+baseURL = "https://blog.edmason.co.uk"
 title = "Ed Mason"
 theme = "etch"
 languageCode = "en-GB"
@@ -9,7 +9,7 @@ enableGitInfo = true
 enableEmoji = true
 
 [params]
-  description = "My website"
+  description = "My blog"
   copyright = "Copyright © 2024 Ed Mason"
   notFound = "404 Page Not Found. Apologies!"
   dark = "auto"
