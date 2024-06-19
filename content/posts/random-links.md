@@ -13,14 +13,12 @@ comments: false
 ### My Favourite Blogs / News 📝
 
 - [The Gospel Coalition](https://www.thegospelcoalition.org)
-- [New York Times](https://www.nytimes.com)
-- [9to5Mac](https://www.9to5mac.com)
+- [Politico](https://www.politico.eu)
 
 ### My Favourite Creators 📹
 
-- [Not Just Bikes](https://www.notjustbikes.com)
 - [RMTransit](https://www.reecemartin.ca)
-- [James Hoffmann](https://www.youtube.com/@jameshoffmann)
+- [Jet Lag: The Game](https://www.youtube.com/c/jetlagthegame)
 
 ### My Favourite Bible Verses ✝️
 
